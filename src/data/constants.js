@@ -356,6 +356,18 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Pgangothri/to-do-web-app",
   },
+  {
+  id: 7,
+  title: "Podstream",
+  date: "Mar 2024",
+  description:
+    "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+  image:
+    "https://github.com/Pgangothri/podstream/assets/117299815/22136b9f-a249-4975-a85a-6741c81448bb",
+  tags: ["React.js","redux","MongoDB","Express.js","Node.js"],
+  category: "web app",
+  github: "https://github.com/Pgangothri/podstream",
+},
 
 
 ];
