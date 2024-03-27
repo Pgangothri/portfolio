@@ -270,13 +270,13 @@ export const projects = [
       },
       {
         name: "Sai Kumar",
-        img: "https://media.licdn.com/dms/image/D5635AQFU0vyxt-fRKg/profile-framedphoto-shrink_400_400/0/1705072674565?e=1710954000&v=beta&t=BOnkNxpkGVVHs6bKkSFaP3aUcafcoGZChPcT3RTtJTw",
+        img: "https://media.licdn.com/dms/image/D5635AQFU0vyxt-fRKg/profile-framedphoto-shrink_800_800/0/1705072674565?e=1712156400&v=beta&t=jrT2Q2Mci9XWu1ykIjEA356AxVdZ6l2hAidVT7j6alQ",
         linkedin: "https://www.linkedin.com/in/sai-kumar-pappaka-778928222/",
         github: "https://github.com/mrsaikumar-7",
       },
       {
         name: "Mahesh",
-        img: "https://media.licdn.com/dms/image/D5635AQHY_Wi_CLN_Cw/profile-framedphoto-shrink_400_400/0/1700587804833?e=1710954000&v=beta&t=F-7OStF5YV4Xg2sGpzAoHSaiuepnoDi7JpEQ5CZY2Ik",
+        img: "https://media.licdn.com/dms/image/D5635AQHY_Wi_CLN_Cw/profile-framedphoto-shrink_800_800/0/1700587804833?e=1712156400&v=beta&t=2GV9cdP8HklbuVU0c9iJwJTgtIRMmyYz8z_48M-BMIQ",
         linkedin: "https://www.linkedin.com/in/mahesh-senapathi-1a6058204/",
         github: "https://github.com/Mahe9041",
       },
